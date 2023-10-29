@@ -9,5 +9,5 @@ A simple calculator built using Swift and UIKit
 ### 🧰 Tech Used :
 - UIkit
 - Swift
-- MVC
+- MVC Architecture
 
